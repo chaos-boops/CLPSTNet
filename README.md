@@ -3,7 +3,7 @@ Fengchun Liu; Tong Zhang; Chunying Zhang
 
 This repository contains the official implementation of the paper "CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning".
 
-
+![Model Overview](image/fig1.jpg)
 
 ## Introduction
 
@@ -98,6 +98,10 @@ python sample.py
 
 
 ## Results
+
+![Comparative experimental results of PMCB module and Inception module](image/1745378938568.jpg)
+![Comparison experiments between CLPSTNet and other model](image/1745378979840.jpg)
+![Result](image/sample.png)
 
 ## Citation
 If you find our work useful in your research, please consider citing:
