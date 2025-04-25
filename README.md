@@ -104,7 +104,7 @@ python sample.py
 ![Result](image/sample.png)
 
 ## Citation
-If you find our work useful in your research, please consider citing:
+If you find our work useful in your research, please consider citing:	arXiv:2504.16364
 
 
 ## Contact
