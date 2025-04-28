@@ -104,7 +104,11 @@ python sample.py
 ![Result](image/sample.png)
 
 ## Citation
-If you find our work useful in your research, please consider citing:	arXiv:2504.16364
+
+If you find our work useful in your research, please consider citing:	
+ ```
+arXiv:2504.16364
+
 @misc{liu2025clpstnetprogressivemultiscaleconvolutional,
       title={CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning}, 
       author={Fengchun Liu and Tong Zhang and Chunying Zhang},
@@ -114,6 +118,7 @@ If you find our work useful in your research, please consider citing:	arXiv:2504
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2504.16364}, 
 }
+ ```
 
 ## Contact
 If you encounter any issues while using this repository, please feel free to leave messages in issues or contact us at:
