@@ -107,16 +107,11 @@ python sample.py
 
 If you find our work useful in your research, please consider citing:	
  ```
-arXiv:2504.16364
-
-@misc{liu2025clpstnetprogressivemultiscaleconvolutional,
-      title={CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning}, 
-      author={Fengchun Liu and Tong Zhang and Chunying Zhang},
-      year={2025},
-      eprint={2504.16364},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.16364}, 
+@article{liu2025clpstnet,
+  title={CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning},
+  author={Liu, Fengchun and Zhang, Tong and Zhang, Chunying},
+  journal={arXiv preprint arXiv:2504.16364},
+  year={2025}
 }
  ```
 
